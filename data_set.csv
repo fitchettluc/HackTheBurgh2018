@@ -1,33 +1,33 @@
-﻿,School Attendance,Alcohol Related Discharge,NEET,Children in Low Income Families,Children with Limited Resources,School Leavers not in Higher Education
-Aberdeen City,91.16,7.575,6.6,12.2,26.9,66.8
-Aberdeenshire,92.81,2.822,5.7,7.4,5.3,64.1
-Angus,92.84,3.652,9.3,12.9,20.3,61.5
-Argyll and Bute,91.95,6.689,8.4,11.9,12.1,62.3
-City of Edinburgh,91.02,5.613,7.6,14.4,14.1,61.9
-Clackmannanshire,91.21,5.09,13,19.5,18.3,69.7
-Dumfries and Galloway,92.8,4.319,8.5,15.4,18.5,62.2
-Dundee City,89.63,6.733,11.1,22,26.4,68.6
-East Ayrshire,90.53,6.665,12,20.2,15.6,68
-East Dunbartonshire,93.28,4.553,6.1,9.1,11,42.4
-East Lothian,91.35,4.073,9.3,12.3,8,65.6
-East Renfrewshire,94.31,4.369,5.6,8.2,8.1,37
-Falkirk,91.05,5.288,10.5,15.1,26.7,69.3
-Fife,90.1,6.093,10.3,17.6,24.1,65.3
-Glasgow City,89.9,12.405,11.4,27.2,40.9,66.9
-Highland,90.29,6.057,9.5,12.5,16.3,66.3
-Inverclyde,90.87,11.513,10,21.2,18.1,62.1
-Midlothian,90.86,5.577,11.9,15.8,10.3,70.3
-Moray,92.41,4.796,7.7,11.3,10.1,62
-Na h-Eileanan Siar,92.18,7.086,6,8.4,23.2,64.3
-North Ayrshire,91.47,8.138,13.1,23.3,25.7,64.7
-North Lanarkshire,89.62,8.054,12.1,18.7,21.2,64.8
-Orkney Islands,90.79,6.879,5.3,7.7,18.6,67.5
-Perth and Kinross,91.58,3.297,7,10.4,16,63.4
-Renfrewshire,92.05,9.453,10,16.6,15.7,60.4
-Scottish Borders,91.77,4.443,8.5,12.1,24.4,63.2
-Shetland Islands,92.93,6.713,6.3,5.3,8.7,72.3
-South Ayrshire,91.14,7.019,10.8,16.3,29.2,62.7
-South Lanarkshire,91.38,6.685,10.5,15.9,18.1,63.3
-Stirling,89.94,4.241,7,12,12.2,55.3
-West Dunbartonshire,90.1,10.572,12.3,22.1,25.1,63.5
-West Lothian,91.92,6.294,10.4,14.9,16.7,62.5
+Council Area,School Missed,Alcohol Related Discharge,NEET,Children in Low Income Families,Children with Limited Resources,School Leavers not in Higher Education
+Aberdeen City,8.84,7.575,6.6,12.2,26.9,66.8
+Aberdeenshire,7.19,2.822,5.7,7.4,5.3,64.1
+Angus,7.16,3.652,9.3,12.9,20.3,61.5
+Argyll and Bute,8.05,6.689,8.4,11.9,12.1,62.3
+City of Edinburgh,8.98,5.613,7.6,14.4,14.1,61.9
+Clackmannanshire,8.79,5.09,13,19.5,18.3,69.7
+Dumfries and Galloway,7.2,4.319,8.5,15.4,18.5,62.2
+Dundee City,10.37,6.733,11.1,22,26.4,68.6
+East Ayrshire,9.47,6.665,12,20.2,15.6,68
+East Dunbartonshire,6.72,4.553,6.1,9.1,11,42.4
+East Lothian,8.65,4.073,9.3,12.3,8,65.6
+East Renfrewshire,5.69,4.369,5.6,8.2,8.1,37
+Falkirk,8.95,5.288,10.5,15.1,26.7,69.3
+Fife,9.9,6.093,10.3,17.6,24.1,65.3
+Glasgow City,10.1,12.405,11.4,27.2,40.9,66.9
+Highland,9.71,6.057,9.5,12.5,16.3,66.3
+Inverclyde,9.13,11.513,10,21.2,18.1,62.1
+Midlothian,9.14,5.577,11.9,15.8,10.3,70.3
+Moray,7.59,4.796,7.7,11.3,10.1,62
+Na h-Eileanan Siar,7.82,7.086,6,8.4,23.2,64.3
+North Ayrshire,8.53,8.138,13.1,23.3,25.7,64.7
+North Lanarkshire,10.38,8.054,12.1,18.7,21.2,64.8
+Orkney Islands,9.21,6.879,5.3,7.7,18.6,67.5
+Perth and Kinross,8.42,3.297,7,10.4,16,63.4
+Renfrewshire,7.95,9.453,10,16.6,15.7,60.4
+Scottish Borders,8.23,4.443,8.5,12.1,24.4,63.2
+Shetland Islands,7.07,6.713,6.3,5.3,8.7,72.3
+South Ayrshire,8.86,7.019,10.8,16.3,29.2,62.7
+South Lanarkshire,8.62,6.685,10.5,15.9,18.1,63.3
+Stirling,10.06,4.241,7,12,12.2,55.3
+West Dunbartonshire,9.9,10.572,12.3,22.1,25.1,63.5
+West Lothian,8.08,6.294,10.4,14.9,16.7,62.5
